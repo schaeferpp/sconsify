@@ -6,9 +6,9 @@ import (
 	"time"
 
 	sp "github.com/fabiofalci/go-libspotify/spotify"
-	"github.com/fabiofalci/sconsify/infrastructure"
-	"github.com/fabiofalci/sconsify/sconsify"
-	"github.com/fabiofalci/sconsify/webapi"
+	"github.com/schaeferpp/sconsify/infrastructure"
+	"github.com/schaeferpp/sconsify/sconsify"
+	"github.com/schaeferpp/sconsify/webapi"
 	"github.com/gordonklaus/portaudio"
 	webspotify "github.com/zmb3/spotify"
 )

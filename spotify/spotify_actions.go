@@ -2,8 +2,8 @@ package spotify
 
 import (
 	sp "github.com/fabiofalci/go-libspotify/spotify"
-	"github.com/fabiofalci/sconsify/infrastructure"
-	"github.com/fabiofalci/sconsify/sconsify"
+	"github.com/schaeferpp/sconsify/infrastructure"
+	"github.com/schaeferpp/sconsify/sconsify"
 	webspotify "github.com/zmb3/spotify"
 	"strings"
 	"time"

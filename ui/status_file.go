@@ -1,7 +1,7 @@
 package ui
 
 import (
-	"github.com/fabiofalci/sconsify/sconsify"
+	"github.com/schaeferpp/sconsify/sconsify"
 	"text/template"
 	"io/ioutil"
 	"bytes"

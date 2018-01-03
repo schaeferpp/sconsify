@@ -6,8 +6,8 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/fabiofalci/sconsify/infrastructure"
-	"github.com/fabiofalci/sconsify/sconsify"
+	"github.com/schaeferpp/sconsify/infrastructure"
+	"github.com/schaeferpp/sconsify/sconsify"
 	"github.com/jroimartin/gocui"
 )
 

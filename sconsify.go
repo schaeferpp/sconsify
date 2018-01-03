@@ -9,16 +9,16 @@ import (
 	"strings"
 	"time"
 
-	"github.com/fabiofalci/sconsify/infrastructure"
-	"github.com/fabiofalci/sconsify/rpc"
-	"github.com/fabiofalci/sconsify/sconsify"
-	"github.com/fabiofalci/sconsify/spotify"
-	"github.com/fabiofalci/sconsify/ui/noui"
-	"github.com/fabiofalci/sconsify/ui/simple"
+	"github.com/schaeferpp/sconsify/infrastructure"
+	"github.com/schaeferpp/sconsify/rpc"
+	"github.com/schaeferpp/sconsify/sconsify"
+	"github.com/schaeferpp/sconsify/spotify"
+	"github.com/schaeferpp/sconsify/ui/noui"
+	"github.com/schaeferpp/sconsify/ui/simple"
 	"github.com/howeyc/gopass"
 	"runtime"
 	"strconv"
-	"github.com/fabiofalci/sconsify/ui"
+	"github.com/schaeferpp/sconsify/ui"
 )
 
 var version string

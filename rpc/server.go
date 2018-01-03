@@ -2,7 +2,7 @@ package rpc
 
 import (
 	"fmt"
-	"github.com/fabiofalci/sconsify/sconsify"
+	"github.com/schaeferpp/sconsify/sconsify"
 	"net"
 	"net/http"
 	"net/rpc"
